@@ -1,0 +1,3 @@
+exports.USER_LOGIN = "USER_LOGIN";
+exports.USER_LOGOUT = "USER_LOGOUT";
+exports.USER_REGISTER = "USER_REGISTER";

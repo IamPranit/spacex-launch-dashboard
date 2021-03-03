@@ -1,0 +1,2 @@
+exports.GET_QUERY="GET_QUERY";
+exports.SET_QUERY="SET_QUERY";

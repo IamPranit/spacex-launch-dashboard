@@ -1,0 +1,2 @@
+exports.GET_LAUNCHES = "GET_LAUNCHES";
+exports.GET_LAUNCH = "GET_LAUNCH";

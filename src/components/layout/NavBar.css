@@ -1,0 +1,12 @@
+.btnGap {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navMargin {
+    margin-bottom: 1em;
+}
+
+.nav-link {
+    cursor: pointer;
+}

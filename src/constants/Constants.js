@@ -1,3 +1,3 @@
-const SERVER_URL = "http://localhost:5000/api/v1";
+const SERVER_URL = "https://spacexlaunchdashboardbackend.herokuapp.com/api/v1";
 
 export { SERVER_URL };
